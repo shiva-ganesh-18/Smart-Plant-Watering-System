@@ -60,7 +60,6 @@ Smart-Plant-Watering-System/
 ├── Presentation.pptx
 └── Images/
 ```
-
 ---
 
 ## 🚀 Applications
